@@ -18,7 +18,7 @@
 |      Name 🎖️    |     Registration No👋    |
 |:-------------:|:-------------------|
 | Mirza Nihal baig |  2018331095 | 
-| Person2       |  |     
+| Mahnur Rahman Mahin       | 2018331043 |     
 | Person3  |   |  
 | Person4  |   |  
 
